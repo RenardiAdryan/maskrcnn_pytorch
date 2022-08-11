@@ -1,3 +1,5 @@
 PennFudanPed/
 data/
 Motogp/
+model/
+__pycache__/
